@@ -4,7 +4,8 @@
 
 Página desenvolvida com base no projeto na NLW e-Sports da Rocketseat
 
-![print.png](Untitled%204bd7a31043d142a29167bf1d92c4bce8/print.png)
+![print](https://user-images.githubusercontent.com/102264203/190875238-0e53bd68-8fd1-4f5a-870d-06aeaa67c2de.png)
+
 
 > Trilha Explorer
 > 
