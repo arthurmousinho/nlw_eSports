@@ -7,7 +7,7 @@ Página desenvolvida com base no projeto na NLW e-Sports da Rocketseat
 > Trilha Explorer
 > 
 
-🔗  Link do projeto
+🔗 [Clique aqui para acessar] (https://arthurmousinho.github.io/nlw_eSports/)
 
 ## 🛠️ Tecnologias
 
